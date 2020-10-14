@@ -1,5 +1,6 @@
 ![Build](https://github.com/headforwards-spd/spd-angular-template/workflows/Build/badge.svg)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=headforwards-spd_spd-angular-template&metric=alert_status)](https://sonarcloud.io/dashboard?id=headforwards-spd_spd-angular-template)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1af574f5-96ab-4d64-8425-b3c636b1b98c/deploy-status)](https://app.netlify.com/sites/spd-angular-template/deploys)
 
 # Spd Angular Template
 

@@ -1,0 +1,7 @@
+[context.production]
+  publish = "dist/"
+  command = "yarn build:production"
+
+[context.deploy-preview]
+  publish = "dist/"
+  command = "yarn build:staging"
