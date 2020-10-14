@@ -48,11 +48,11 @@ jobs:
         with:
           path: node_modules
           key: node_modules-${{ hashFiles('yarn.lock') }}
-      - run: |
-          sudo apt-get update
-          sudo apt-get upgrade google-chrome-stable -y
+      # - run: |
+      #     sudo apt-get update
+      #     sudo apt-get upgrade google-chrome-stable -y
       - run: mkdir -p reports/e2e
-      - run: yarn e2e:ci
+      # - run: yarn e2e:ci
       - uses: actions/upload-artifact@v2
         with:
           name: e2e
