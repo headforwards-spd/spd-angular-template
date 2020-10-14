@@ -4,7 +4,8 @@
   "private": true,
   "description": "SPD Angular Template",
   "scripts": {
-    "build": "ng build",
+    "build:production": "ng build spd-angular-template -c production",
+    "build:staging": "ng build spd-angular-template -c staging",
     "e2e": "rm -Rf reports/e2e && ng e2e",
     "e2e:ci": "ng e2e --protractor-config=e2e/protractor-ci.conf.js",
     "lint": "run-p lint:**",
