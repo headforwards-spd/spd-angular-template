@@ -53,6 +53,7 @@
     "karma-coverage-istanbul-reporter": "~3.0.2",
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "^1.5.0",
+    "karma-sonarqube-unit-reporter": "^0.0.21",
     "npm-run-all": "^4.1.5",
     "prettier": "^2.1.2",
     "prettier-plugin-packagejson": "^2.2.6",

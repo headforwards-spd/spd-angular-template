@@ -5936,6 +5936,13 @@ karma-jasmine@~4.0.0:
   dependencies:
     jasmine-core "^3.6.0"
 
+karma-sonarqube-unit-reporter@^0.0.21:
+  version "0.0.21"
+  resolved "https://registry.yarnpkg.com/karma-sonarqube-unit-reporter/-/karma-sonarqube-unit-reporter-0.0.21.tgz#1b414fcc77921a9321151b9550f93e36928540dc"
+  integrity sha512-hZofQzPbyc60kiP00LsIKA+Y4dwRymn50LD0D34RCXD5HhxYl/BGjcY7j79VUvrpm7sNBL7w40WVjVEywtC4rg==
+  dependencies:
+    xmlbuilder "^13.0.2"
+
 karma-source-map-support@1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/karma-source-map-support/-/karma-source-map-support-1.4.0.tgz#58526ceccf7e8730e56effd97a4de8d712ac0d6b"
@@ -10717,6 +10724,11 @@ xml2js@^0.4.17:
   dependencies:
     sax ">=0.6.0"
     xmlbuilder "~11.0.0"
+
+xmlbuilder@^13.0.2:
+  version "13.0.2"
+  resolved "https://registry.yarnpkg.com/xmlbuilder/-/xmlbuilder-13.0.2.tgz#02ae33614b6a047d1c32b5389c1fdacb2bce47a7"
+  integrity sha512-Eux0i2QdDYKbdbA6AM6xE4m6ZTZr4G4xF9kahI2ukSEMCzwce2eX9WlTI5J3s+NU7hpasFsr8hWIONae7LluAQ==
 
 xmlbuilder@~11.0.0:
   version "11.0.1"
