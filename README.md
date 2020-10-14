@@ -48,7 +48,7 @@ Headless Chrome for CI test/e2e
 
 ## @TODO
 
-- Sonar Properties
-- GitHub Actions
-- Netlify Config
+- ~~Sonar Properties~~
+- ~~GitHub Actions~~
+- ~~Netlify Config~~
 - e2e Cucumber
