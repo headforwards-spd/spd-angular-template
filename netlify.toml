@@ -1,7 +1,7 @@
 [context.production]
-  publish = "dist/"
+  publish = "dist/spd-angular-template"
   command = "yarn build:production"
 
 [context.deploy-preview]
-  publish = "dist/"
+  publish = "dist/spd-angular-template"
   command = "yarn build:staging"
