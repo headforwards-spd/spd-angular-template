@@ -1,3 +1,6 @@
+![Build](https://github.com/headforwards-spd/spd-angular-template/workflows/Build/badge.svg)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=headforwards-spd_spd-angular-template&metric=alert_status)](https://sonarcloud.io/dashboard?id=headforwards-spd_spd-angular-template)
+
 # Spd Angular Template
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
