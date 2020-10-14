@@ -28,8 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Customisations
 
-
-## ESLint
+## ESLint
 
 Migrated from Codelyzer and TSLint to [Angular ESLint](https://github.com/angular-eslint/angular-eslint).
 
