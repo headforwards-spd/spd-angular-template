@@ -72,9 +72,6 @@ jobs:
       - uses: actions/download-artifact@v2
         with:
           path: reports/
-      - run: |
-          ls -lha reports
-          ls -lha reports/unit
       - uses: SonarSource/sonarcloud-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
